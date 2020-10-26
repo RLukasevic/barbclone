@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/barbclone/static/css/main.74d2f820.chunk.css",
+    "main.css": "/barbclone/static/css/main.27ffc2e7.chunk.css",
     "main.js": "/barbclone/static/js/main.e382e934.chunk.js",
     "main.js.map": "/barbclone/static/js/main.e382e934.chunk.js.map",
     "runtime-main.js": "/barbclone/static/js/runtime-main.4b936ddf.js",
@@ -9,10 +9,10 @@
     "static/js/2.d451dc57.chunk.js": "/barbclone/static/js/2.d451dc57.chunk.js",
     "static/js/2.d451dc57.chunk.js.map": "/barbclone/static/js/2.d451dc57.chunk.js.map",
     "index.html": "/barbclone/index.html",
-    "precache-manifest.26c8cdc89c664b3df14b7a3cad50e68d.js": "/barbclone/precache-manifest.26c8cdc89c664b3df14b7a3cad50e68d.js",
+    "precache-manifest.e1f1aa42bacdc90f1f237d5ad060dbbe.js": "/barbclone/precache-manifest.e1f1aa42bacdc90f1f237d5ad060dbbe.js",
     "service-worker.js": "/barbclone/service-worker.js",
     "static/css/2.5b44f0a0.chunk.css.map": "/barbclone/static/css/2.5b44f0a0.chunk.css.map",
-    "static/css/main.74d2f820.chunk.css.map": "/barbclone/static/css/main.74d2f820.chunk.css.map",
+    "static/css/main.27ffc2e7.chunk.css.map": "/barbclone/static/css/main.27ffc2e7.chunk.css.map",
     "static/js/2.d451dc57.chunk.js.LICENSE.txt": "/barbclone/static/js/2.d451dc57.chunk.js.LICENSE.txt",
     "static/media/greenTick.png": "/barbclone/static/media/greenTick.0faa78e0.png"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.4b936ddf.js",
     "static/css/2.5b44f0a0.chunk.css",
     "static/js/2.d451dc57.chunk.js",
-    "static/css/main.74d2f820.chunk.css",
+    "static/css/main.27ffc2e7.chunk.css",
     "static/js/main.e382e934.chunk.js"
   ]
 }
