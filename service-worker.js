@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/barbclone/precache-manifest.6cfb9093947d452f8be4a8af0fbe10df.js"
+  "/barbclone/precache-manifest.6d8ba31f511e62e24107d84bd827879f.js"
 );
 
 self.addEventListener('message', (event) => {
